@@ -1,2 +1,2 @@
 #!/bin/bash
-printif "%f./2/n" $NUM
+printif "%f./2 \n" $NUM
